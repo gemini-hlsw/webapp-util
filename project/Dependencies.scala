@@ -18,7 +18,7 @@ object Dependencies {
     def flyway            = "9.20.0"
     def hikariCP          = "5.0.1"
     def izumiReflect      = "2.3.8"
-    def javaxWebsocketApi = "1.0"
+    def javaxWebsocketApi = "1.1"
     def microlibs         = "4.2.1"
     def nyaya             = "1.1.0"
     def okHttp4           = "4.11.0"
