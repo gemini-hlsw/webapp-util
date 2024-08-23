@@ -26,7 +26,7 @@ object Dependencies {
     def scala2            = "2.13.11"
     def scala3            = "3.3.0"
     def scalaJsDom        = "2.6.0"
-    def scalaJsReact      = "2.1.1"
+    def scalaJsReact      = "2.1.2"
     def scalaLogging      = "3.9.5"
     def testState         = "3.1.0"
     def univEq            = "2.0.1"
