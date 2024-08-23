@@ -34,7 +34,7 @@ object Dependencies {
     // Internal
     def base32768           = "2.0.2"
     def betterMonadicFor    = "0.3.1"
-    def kindProjector       = "0.13.2"
+    def kindProjector       = "0.13.3"
     def pako                = "2.0.4"
     def reactJs             = "17.0.2"
     def scalaJsJavaTime     = "1.0.0"
