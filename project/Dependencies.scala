@@ -9,7 +9,7 @@ object Dependencies {
   object Ver {
 
     // Exported
-    def boopickle         = "1.4.0"
+    def boopickle         = "1.5.0"
     def catsEffect        = "3.5.1"
     def catsRetry         = "3.1.0"
     def circe             = "0.14.5"
