@@ -10,7 +10,7 @@ object Dependencies {
 
     // Exported
     def boopickle         = "1.4.0"
-    def catsEffect        = "3.5.1"
+    def catsEffect        = "3.5.4"
     def catsRetry         = "3.1.0"
     def circe             = "0.14.5"
     def clearConfig       = "3.1.0"
