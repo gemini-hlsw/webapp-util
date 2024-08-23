@@ -17,7 +17,7 @@ object Dependencies {
     def doobie            = "1.0.0-RC4"
     def flyway            = "9.20.0"
     def hikariCP          = "5.0.1"
-    def izumiReflect      = "2.3.8"
+    def izumiReflect      = "2.3.10"
     def javaxWebsocketApi = "1.0"
     def microlibs         = "4.2.1"
     def nyaya             = "1.1.0"
