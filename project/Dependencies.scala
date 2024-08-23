@@ -39,7 +39,7 @@ object Dependencies {
     def reactJs             = "17.0.2"
     def scalaJsJavaTime     = "1.0.0"
     def scalaJsSecureRandom = "1.0.0"
-    def utest               = "0.8.1"
+    def utest               = "0.8.4"
   }
 
   object Dep {
