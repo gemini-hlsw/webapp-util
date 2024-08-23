@@ -23,7 +23,7 @@ object Dependencies {
     def nyaya             = "1.1.0"
     def okHttp4           = "4.11.0"
     def postgresql        = "42.6.0"
-    def scala2            = "2.13.11"
+    def scala2            = "2.13.14"
     def scala3            = "3.3.0"
     def scalaJsDom        = "2.6.0"
     def scalaJsReact      = "2.1.1"
