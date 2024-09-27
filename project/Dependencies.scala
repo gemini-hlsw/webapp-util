@@ -24,7 +24,7 @@ object Dependencies {
     def okHttp4           = "4.11.0"
     def postgresql        = "42.6.0"
     def scala2            = "2.13.11"
-    def scala3            = "3.3.0"
+    def scala3            = "3.3.4"
     def scalaJsDom        = "2.6.0"
     def scalaJsReact      = "2.1.1"
     def scalaLogging      = "3.9.5"
