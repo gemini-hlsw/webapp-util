@@ -36,7 +36,7 @@ object Dependencies {
     def betterMonadicFor    = "0.3.1"
     def kindProjector       = "0.13.2"
     def pako                = "2.0.4"
-    def reactJs             = "17.0.2"
+    def reactJs             = "19.0.0"
     def scalaJsJavaTime     = "1.0.0"
     def scalaJsSecureRandom = "1.0.0"
     def utest               = "0.8.1"
