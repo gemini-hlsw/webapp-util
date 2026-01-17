@@ -29,7 +29,7 @@ object Dependencies {
     def scalaJsReact      = "2.1.1"
     def scalaLogging      = "3.9.5"
     def testState         = "3.1.0"
-    def univEq            = "2.0.1"
+    def univEq            = "2.0.2"
 
     // Internal
     def base32768           = "2.0.2"
