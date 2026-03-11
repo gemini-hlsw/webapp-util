@@ -13,7 +13,7 @@ object Dependencies {
     def catsEffect        = "3.5.1"
     def catsRetry         = "3.1.0"
     def circe             = "0.14.5"
-    def clearConfig       = "3.1.0"
+    def clearConfig       = "3.3.0"
     def doobie            = "1.0.0-RC4"
     def flyway            = "9.20.0"
     def hikariCP          = "5.0.1"
