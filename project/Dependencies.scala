@@ -20,7 +20,7 @@ object Dependencies {
     def izumiReflect      = "2.3.8"
     def javaxWebsocketApi = "1.0"
     def microlibs         = "4.2.1"
-    def nyaya             = "1.1.0"
+    def nyaya             = "1.2.0"
     def okHttp4           = "4.11.0"
     def postgresql        = "42.6.0"
     def scala2            = "2.13.11"
